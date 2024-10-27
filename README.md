@@ -30,5 +30,6 @@ https://stackoverflow.com/questions/20917617/whats-the-difference-of-dual-pivot-
 https://stackoverflow.com/questions/4834740/what-is-the-worst-case-scenario-for-quicksort\
 
 Sources: Provide the principle of pushing the unsorted subarray index into the stack, how to record the pivot position, and help me locate the cause of the error. For the proof part, it comes from the following website\
+The above information only provides me with some basic explanations and detailed explanations of theorems. The code construction and the complete problem-solving process are completed by myself.\
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
