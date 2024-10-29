@@ -25,11 +25,10 @@ If the base value selected each time is the smallest or largest element in the a
 In the worst case, each partition only reduces n elements and requires n comparisons, with a time complexity of $O(n^2)$\
 
 ###\
+Sources: ChatGPT provides the principle of pushing the unsorted subarray index into the stack, how to record the pivot position, and helps me locate the cause of the error. The website provides me with inspiration for the time complexity of quicksort\
 https://stackoverflow.com/questions/20917617/whats-the-difference-of-dual-pivot-quick-sort-and-quick-sort\
-
 https://stackoverflow.com/questions/4834740/what-is-the-worst-case-scenario-for-quicksort\
 
-Sources: Provide the principle of pushing the unsorted subarray index into the stack, how to record the pivot position, and help me locate the cause of the error. For the proof part, it comes from the following website\
-The above information only provides me with some basic explanations and detailed explanations of theorems. The code construction and the complete problem-solving process are completed by myself.\
+I have completed the explanation of the worst-case time complexity, and completed the code part of pushing the unsorted subarray index into the stack, testing and configuring the partition function\
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
