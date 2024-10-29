@@ -29,6 +29,6 @@ Sources: ChatGPT provides the principle of pushing the unsorted subarray index i
 https://stackoverflow.com/questions/20917617/whats-the-difference-of-dual-pivot-quick-sort-and-quick-sort\
 https://stackoverflow.com/questions/4834740/what-is-the-worst-case-scenario-for-quicksort\
 
-I have completed the explanation of the worst-case time complexity, and completed the code part of pushing the unsorted subarray index into the stack, testing and configuring the partition function\
+I have completed the explanation of the worst-case time complexity, Complete code construction,and completed the pushing the unsorted subarray index into the stack, testing and configuring the partition function\
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
